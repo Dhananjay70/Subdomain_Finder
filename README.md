@@ -1,7 +1,7 @@
 # Subdomain Enumeration Script
 
-![GitHub](https://img.shields.io/github/license/<YourUsername>/<YourRepo>)
-![GitHub last commit](https://img.shields.io/github/last-commit/<YourUsername>/<YourRepo>)
+![GitHub](https://img.shields.io/github/license/Dhananjay70/Subdomain_finder)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dhananjay70/Subdomain_finder)
 
 ## Description
 

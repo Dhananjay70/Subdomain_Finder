@@ -16,7 +16,7 @@ This Bash script automates the subdomain enumeration process, utilizing the powe
 ## Getting Started
 
 1. Install the required tools: Make sure you have `subfinder` and `findomain` installed and available in your environment.
-2. Clone the repository: `git clone https://github.com/<YourUsername>/<YourRepo>.git`
+2. Clone the repository: `git clone https://github.com/Dhananjay70/Subdomain_Finder.git`
 3. Run the script: Make the script executable with `chmod +x subdomain_enum.sh` and run it with `./subdomain_enum.sh`.
 
 ## Usage
